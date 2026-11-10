@@ -14,6 +14,9 @@
   <a href="https://github.com/nextube-project/NeXTube/releases/latest">
     <img src="https://img.shields.io/badge/Release-v1.0.0-E50914?style=for-the-badge&logo=android&logoColor=white" alt="Latest Release" />
   </a>
+  <a href="https://t.me/nextubeproject">
+    <img src="https://img.shields.io/badge/Telegram-NeXTube%20Official-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" />
+  </a>
   <img src="https://img.shields.io/badge/Platform-Android%208.0+-000000?style=for-the-badge&logo=googleplay&logoColor=white" alt="Platform" />
   <img src="https://img.shields.io/badge/License-MIT-gray?style=for-the-badge" alt="License" />
 </p>
@@ -23,6 +26,13 @@
     <img src="https://img.shields.io/badge/Download-NeXTube%20APK%20(v1.0.0)-red?style=for-the-badge&logo=android&logoColor=white" alt="Download NeXTube" height="42" />
   </a>
 </p>
+
+---
+
+## 💬 Community & Direct APK Updates
+
+Join our official Telegram channel for early previews, instant release notifications, and direct 1-tap APK downloads:
+👉 **[Join @nextubeproject on Telegram](https://t.me/nextubeproject)**
 
 ---
 
@@ -40,9 +50,9 @@
 
 ## 📥 How to Install
 
-1. Download the latest **`NeXTube-v1.0.0.apk`** from the [**Releases Page**](https://github.com/nextube-project/NeXTube/releases/latest).
+1. Download the latest **`NeXTube-v1.0.0.apk`** from our [**Releases Page**](https://github.com/nextube-project/NeXTube/releases/latest) or directly from [**Telegram**](https://t.me/nextubeproject).
 2. Open the downloaded APK on your Android device.
-3. If prompted, allow **"Install Unknown Apps"** for your browser or file manager.
+3. If prompted, allow **"Install Unknown Apps"** for your browser, Telegram, or file manager.
 4. Tap **Install** and launch **NeXTube**!
 
 ---
@@ -51,7 +61,7 @@
 
 - **Android Version:** Android 8.0 (Oreo) or higher.
 - **Architectures Supported:** `arm64-v8a`, `armeabi-v7a`, `x86_64`.
-- **Issues / Suggestions:** Have a bug or feature request? Submit an [Issue](https://github.com/nextube-project/NeXTube/issues).
+- **Issues / Suggestions:** Have a bug or feature request? Submit an [Issue](https://github.com/nextube-project/NeXTube/issues) or chat on [Telegram](https://t.me/nextubeproject).
 
 ---
 
