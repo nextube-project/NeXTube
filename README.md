@@ -29,6 +29,20 @@
 
 ---
 
+## 📱 Screenshots
+
+<p align="center">
+  <img src="screenshots/home_feed.jpg" width="23%" alt="Home Feed" />
+  &nbsp;
+  <img src="screenshots/shorts_player.jpg" width="23%" alt="Shorts Player" />
+  &nbsp;
+  <img src="screenshots/channel_view.jpg" width="23%" alt="Channel View" />
+  &nbsp;
+  <img src="screenshots/you_profile.jpg" width="23%" alt="Profile & Settings" />
+</p>
+
+---
+
 ## 💬 Community & Direct APK Updates
 
 Join our official Telegram channel for early previews, instant release notifications, and direct 1-tap APK downloads:
