@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "build": 1,
+  "title": "NeXTube v1.0.0 — Official Release",
+  "releaseDate": "2026-11-12",
+  "downloadUrl": "https://github.com/nextube-project/NeXTube/releases/download/v1.0.0/NeXTube-v1.0.0.apk",
+  "releasePageUrl": "https://github.com/nextube-project/NeXTube/releases/latest",
+  "changelog": "Welcome to NeXTube!\n• 100% Ad-Free Video Streaming\n• Floating Picture-in-Picture (PiP)\n• Background Audio Playback\n• 1-Tap YouTube Subscriptions Sync\n• Native 60/120Hz Gestures & 0ms Launch"
+}
